@@ -4,7 +4,7 @@ This is a front-end clone of the famous UI/UX designer Cynthia Ugwu’s portfoli
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://sushantsubedi-tech.github.io/Cynthia-Ugwu-ui-/)
+🔗 [View Live Site](https://sushant-io.github.io/Cynthia-Ugwu-ui-/)
 
 ## 🛠️ Tech Stack
 
